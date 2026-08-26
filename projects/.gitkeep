@@ -1,0 +1,24 @@
+# Projects Directory
+
+This is where your actual PM work goes.
+
+Create a folder for each project/feature you're working on:
+
+projects/
+├── ai-chat-feature/
+│   ├── prd.md
+│   ├── impact-estimate.md
+│   ├── experiment-results.csv
+│   └── strategy.md
+├── activation-improvement/
+│   ├── problem-analysis.md
+│   ├── user-survey-data.csv
+│   └── roi-scenarios.md
+└── ...
+
+Each project folder can contain:
+- PRDs and specifications
+- Data files (CSV, JSON)
+- Analysis documents
+- Strategy documents
+- Research findings

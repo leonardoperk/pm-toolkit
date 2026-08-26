@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Generated outputs (regenerate locally)
+outputs/
+tools/sprint-forecasting/outputs/
+forecasts/*.png
+
+
+# Secrets & lokale Artefakte, nie committen
+.env
+.image_session.json
+.obsidian/workspace.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Obsidian vault config (local only)
+.obsidian/
