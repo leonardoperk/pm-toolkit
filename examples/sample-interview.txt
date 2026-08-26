@@ -1,0 +1,25 @@
+Customer Interview - Support Manager, 45-person company
+
+Interviewer: Tell me about your current customer communication process.
+
+Customer: Well, it's honestly quite frustrating. We use email, live chat, and sometimes customers message us through social DMs. The problem is we have to check three different places constantly, and sometimes we miss messages. Last week a customer asked about an urgent account issue through chat, but I didn't see it until they escalated to my manager. That was embarrassing.
+
+Interviewer: How does that affect your daily work?
+
+Customer: It adds so much stress. My team is small - just me and two support agents. We're constantly switching between platforms. I'd say we spend at least 2 hours per day just managing different messaging channels. And the worst part? When a conversation starts in chat but then continues over email, we lose the context. We have to remember or write notes elsewhere about what was discussed before.
+
+Interviewer: What about automation for customer messages?
+
+Customer: We tried setting up some automated messages through our core system, but honestly, it was so complicated that we gave up. The support team had to help us, and even then it took weeks to set up. And when we wanted to change something simple, like the onboarding message, we had to call support again. It's just not practical for a small team like ours.
+
+Interviewer: If you could wave a magic wand, what would the ideal solution look like?
+
+Customer: I want everything in one place. All messages - email, chat, social - in a single inbox. And I want to set up automated messages myself without needing technical skills. Like, if a customer signs up, automatically send them a welcome message with getting-started info. Or send a reminder about an upcoming renewal the day before it's due. But I want to be able to edit those messages easily when things change.
+
+Interviewer: Anything else?
+
+Customer: Oh, and it would be amazing if the system could answer basic questions automatically. Customers always ask the same things - how to reset a password, where to find billing, how to do a common task. If an AI could answer those while I'm sleeping or busy, that would save us so much time.
+
+Interviewer: How much would that be worth to you?
+
+Customer: Honestly, if it saves us 2 hours a day and helps us not miss messages, I'd easily pay €150-200 per month. Missing a customer message can mean a bad review, and bad reviews cost us thousands in lost renewals.
