@@ -38,7 +38,7 @@ The point is judgment leverage: the toolkit does the reading, drafting, and arit
 
 ## Outcomes
 
-### What you can build with it
+### What it produces
 
 Concrete things you walk away with, not features:
 
